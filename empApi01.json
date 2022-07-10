@@ -1,0 +1,7 @@
+{
+ "employees":[
+  {"id":1001,"ename":"Anil","job":"Trainer","Salary":40000},
+  {"id":1002,"ename":"Pnil","job":"Jr Trainer","Salary":40000},
+  {"id":1003,"ename":"Snil","job":"Sr Trainer","Salary":40000}
+ ]
+}
